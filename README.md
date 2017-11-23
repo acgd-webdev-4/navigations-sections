@@ -8,7 +8,7 @@ deliverables: 'Pattern library'
 
 ## Overview
 
-- *Continue work on your `dog-rescue-pattern-library`*
+- *Continue work on your `ecommerce-pattern-library`*
 - Design all the different navigation patterns that your website needs:
   - Are there next/previous or page buttons?
   - Is there a secondary nav?
