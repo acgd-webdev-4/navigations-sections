@@ -17,7 +17,7 @@ deliverables: 'Pattern library'
 - Also design all the different section styles for your website—each different grouping of content or images should be styled:
   - Images & pieces of text?
   - Intro text chunks?
-  - Banner-like sections
+  - Banner-like sections?
   - *We don’t need to do groupings of cards—we’re looking for uniquely designed components.*
 - *Run your pattern library through Markbot and make sure it passes all the checks.*
 
