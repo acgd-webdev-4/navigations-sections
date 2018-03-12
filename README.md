@@ -9,11 +9,12 @@ deliverables: 'Pattern library'
 ## Overview
 
 - *Continue work on your `ecommerce-pattern-library`*
-- Design all the different navigation patterns that your website needs:
+- Design all the different secondary navigation patterns that your website needs:
+  - *Concentrate on secondary navigations*—**we’ll do the main nav next week when we do the header.**
   - Are there next/previous or page buttons?
-  - Is there a secondary nav?
+  - Is there a secondary nav in the sidebar?
+  - What about product filters?
   - Bread crumbs?
-  - Can the main navigation be designed separately from the masthead?
 - Also design all the different section styles for your website—each different grouping of content or images should be styled:
   - Images & pieces of text?
   - Intro text chunks?
