@@ -28,7 +28,7 @@ deliverables: 'Pattern library'
 
 - *How many patterns?:* It’s completely up to you—it’s your website design. Call the teacher over if you want confirmation.
 - *Multi-file or single-file patterns:* It’s completely up to you—it’s your website design.
-- *When & why:* In the `README.md` files describe when to use each new pattern you create.
+- *When & why:* In the `config.yml` files describe when to use each new pattern you create.
 
 ---
 
