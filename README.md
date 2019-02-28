@@ -20,14 +20,12 @@ deliverables: 'Pattern library'
   - Intro text chunks?
   - Banner-like sections?
   - *We don’t need to do groupings of cards—we’re looking for uniquely designed components.*
-- *Run your pattern library through Markbot and make sure it passes all the checks.*
 
 ---
 
 ## Details
 
 - *How many patterns?:* It’s completely up to you—it’s your website design. Call the teacher over if you want confirmation.
-- *Multi-file or single-file patterns:* It’s completely up to you—it’s your website design.
 - *When & why:* In the `config.yml` files describe when to use each new pattern you create.
 
 ---
